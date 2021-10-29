@@ -1,0 +1,133 @@
+<HTML>
+<head>
+<script type="text/javascript">if (top!=self) top.location.href=self.location.href;</script><meta http-equiv="X-FRAME-OPTIONS" content="DENY">
+<title>Fone Finder USA - Canada phone lookup results</title>
+</head>
+<BODY BACKGROUND="bkslant.jpg" BGPROPERTIES="fixed">
+<CENTER>
+<IMG SRC="fofilogo.gif" HEIGHT=60 WIDTH=253 ALT="Fone Finder results">
+<br><br>
+
+<table style="width: 100%; text-align: left;" border="0" cellpadding="2"
+ cellspacing="2">
+  <tbody>
+
+    <tr>
+<td style="vertical-align: top;">
+      <div style="text-align: center;">
+<!--
+-->
+<br>
+<font size="5">
+<a href='http://www.spokeo.com/?g=email_text_7_A7458793981'  target="_blank">Reverse Email Lookup</a>
+</font>
+
+<br>
+<br>
+
+      </center>
+      </div>
+      </td>
+
+
+<td style="vertical-align: top;">
+      <div style="text-align: center;">
+<font size="4">
+<br>
+</font>
+      </center>
+      </div>
+   </tr>
+  </tbody>
+</table>
+<br>
+
+
+<H2><FONT COLOR='#FF0000'>Sorry, no records found</FONT></H2><center>
+
+
+<table style="width: 100%; text-align: left;" border="0" cellpadding="2"
+ cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top;">
+      <div style="text-align: center;">
+      <div style="text-align: center;">
+      <div style="text-align: center;">
+      <center>
+Didn't find what you wanted? Try... <a href="http://www.fonefinder.net/resources.php">Fonefinder Resources</a> ..Our Favorites
+<br>
+
+VOIP - <a href="http://www.fonefinder.net/voip.php" target="_blank" OnClick="parent.location='onclickcounter.php?url=voip'">Voice Over Internet Protocol </a> - Facts and Updates
+
+      </center>
+      </div>
+      </div>
+      </div>
+      </td>
+      <td style="vertical-align: top; text-align: center;">
+Get the Facts - <a href="http://www.fonefinder.net/lnp.php" >Wireless/Local Number Portability</a> -&nbsp; and Updates
+<br>
+WIMax - <a href="http://www.fonefinder.net/wimax.php" target="_blank" OnClick="parent.location='onclickcounter.php?url=wimax'">Worldwide Interoperability for Microwave Access</a> - News and Products
+</td>
+    </tr>
+  </tbody>
+</table>
+
+</center>
+
+<A HREF='index.php'>Return for another search</A></H3>
+</center>
+<br><br>
+<center>
+<br><br>
+<a href="https://twitter.com/areversesearch" class="twitter-follow-button" data-
+
+show-count="false" data-size="large" data-show-screen-name="false">Follow
+
+@areversesearch</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!
+
+d.getElementById(id)){js=d.createElement
+
+(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefor
+
+e(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<a href="https://twitter.com/share" class="twitter-share-button" data-size="large"
+
+data-count="none">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!
+
+d.getElementById(id)){js=d.createElement
+
+(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefor
+
+e(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<a href="https://twitter.com/intent/tweet?button_hashtag=FindNumbers"
+
+class="twitter-hashtag-button" data-size="large" data-
+
+url="http://fonefinder.net">Tweet #FindNumbers</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!
+
+d.getElementById(id)){js=d.createElement
+
+(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefor
+
+e(js,fjs);}}(document,"script","twitter-wjs");</script>
+</center>
+
+
+
+
+</BODY>
+<script type="text/javascript">
+//<![CDATA[
+var map = new GMap(document.getElementById("map"));
+map.addControl(new GSmallMapControl());
+map.centerAndZoom(new GPoint(, ), 4);
+//]]></script><BR>
+
+</HTML>
